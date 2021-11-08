@@ -1,6 +1,12 @@
-DEMO
-Firt Commit init
+Junior Front-End Developer
+Studying Computer Science
 
-Modify file on local storage and send a repo remote
-
-changen file by git-hub web page
+-----SKILLS-----
+HTML
+CSS
+JavaScript
+Vue.Js
+Bootstrap
+MongoDB
+NodeJS
+GIT
