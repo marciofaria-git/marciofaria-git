@@ -8,19 +8,19 @@
 I'm a {frontend} developer 👨‍💻 <br>I really enjoy reading and passionate about coding.
 
 
-This is my toolbox 🧰
------Front-End-----
+#### This is my toolbox 🧰
+##### -----Front-End-----
 ☑️HTML
 ☑️CSS
 ☑️React
 ☑️Vue.js
------Back-End-----
+##### -----Back-End-----
 ✅JavaScript
 ✅Node.js
 ✅Express.js
 ✅SQL Server
 
-Learning 📖
+##### Learning 📖
 PHP
 
-"The lips of wisdom are closed, except for the ears of understanding." – The Caibalion🌞
+####"The lips of wisdom are closed, except for the ears of understanding." – The Caibalion🌞
