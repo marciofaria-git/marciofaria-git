@@ -7,4 +7,20 @@
 ### About me
 I'm a {frontend} developer 👨‍💻 <br>I really enjoy reading and passionate about coding.
 
-"The Whole is Mind; the Universe is Mental." - hermetic laws🌞
+
+This is my toolbox 🧰
+-----Front-End-----
+☑️HTML
+☑️CSS
+☑️React
+☑️Vue.js
+-----Back-End-----
+✅JavaScript
+✅Node.js
+✅Express.js
+✅SQL Server
+
+Learning 📖
+PHP
+
+"The lips of wisdom are closed, except for the ears of understanding." – The Caibalion🌞
