@@ -23,4 +23,4 @@ I'm a {frontend} developer 👨‍💻 <br>I really enjoy reading and passionate
 ##### Learning 📖
 PHP
 
-####"The lips of wisdom are closed, except for the ears of understanding." – The Caibalion🌞
+#### "The lips of wisdom are closed, except for the ears of understanding." – The Caibalion🌞
