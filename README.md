@@ -7,20 +7,11 @@
 ### About me
 I'm a {frontend} developer 👨‍💻 <br>I really enjoy reading and passionate about coding.
 
+Bachelor in Computer Science.
+I'm currently focusing on improving the user experience, with responsive and fluid apps
 
-#### This is my toolbox 🧰
-##### -----Front-End-----
-☑️HTML
-☑️CSS
-☑️React
-☑️Vue.js
-##### -----Back-End-----
-✅JavaScript
-✅Node.js
-✅Express.js
-✅SQL Server
+My strongest skills are based on Javascript, Node and React.
 
-##### Learning 📖
-PHP
+
 
 #### "The lips of wisdom are closed, except for the ears of understanding." – The Caibalion🌞
