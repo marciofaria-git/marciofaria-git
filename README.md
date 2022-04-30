@@ -7,11 +7,14 @@
 ### About me
 I'm a {frontend} developer 👨‍💻 <br>I really enjoy reading and passionate about coding.
 
-Bachelor in Computer Science.
-I'm currently focusing on improving the user experience, with responsive and fluid apps
+urious about how writing lines of code can change the world, self-taught since I was 12 years old, I've been learning more and more about the information technology area, passionate about software development, I deepened myself in JavaScript, a language I had an affinity for, today it is the basis of my stack, along with my tools, ReactJs, NextJs and I continue in constant evolution, with my book of clean code under my bedside. 
 
-My strongest skills are based on Javascript, Node and React.
-
+Hard Skills
+ReactJs, NextJs - (Hooks, Context API)
+JavaScript - (TypeScript)
+CSS in JS
+REST API
+MySql
 
 
 #### "The lips of wisdom are closed, except for the ears of understanding." – The Caibalion🌞
