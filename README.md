@@ -7,7 +7,7 @@
 ### About me
 I'm a {frontend} developer 👨‍💻 <br>I really enjoy reading and passionate about coding.
 
-urious about how writing lines of code can change the world, self-taught since I was 12 years old, I've been learning more and more about the information technology area, passionate about software development, I deepened myself in JavaScript, a language I had an affinity for, today it is the basis of my stack, along with my tools, ReactJs, NextJs and I continue in constant evolution, with my book of clean code under my bedside. 
+Curious about how writing lines of code can change the world, self-taught since I was 12 years old, I've been learning more and more about the information technology area, passionate about software development, I deepened myself in JavaScript, a language I had an affinity for, today it is the basis of my stack, along with my tools, ReactJs, NextJs and I continue in constant evolution, with my book of clean code under my bedside. 
 
 Hard Skills
 ReactJs, NextJs - (Hooks, Context API)
