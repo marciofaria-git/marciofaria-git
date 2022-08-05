@@ -19,8 +19,8 @@ Hard Skills
 - [TypeScript](https://www.typescriptlang.org/)
 - [Styled-Components](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Node](https://nodejs.org/en/)
-- [API Integration]
-- [Rest API]
-- [SEO]
-- [Docker]
+- [API Integration]()
+- [Rest API]()
+- [SEO]()
+- [Docker]()
 #### "The lips of wisdom are closed, except for the ears of understanding." – The Caibalion🌞
