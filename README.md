@@ -5,16 +5,22 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/marciomateusdev/)
 
 ### About me
-I'm a {frontend} developer 👨‍💻 <br>I really enjoy reading and passionate about coding.
+I'm a Front-End developer 👨‍💻 <br>I really enjoy reading and passionate about coding.
 
-Curious about how writing lines of code can change the world, self-taught since I was 12 years old, I've been learning more and more about the information technology area, passionate about software development, I deepened myself in JavaScript, a language I had an affinity for, today it is the basis of my stack, along with my tools, ReactJs, NextJs and I continue in constant evolution, with my book of clean code under my bedside. 
+I have been in touch with the technological area since I was 12 years old, I have been delving more and more into software development and its methodologies, such as TDD and SCRUM. 
+My main language is JavaScript, a language for which I have affinity and that today is the basis of the technologies I work with.
 
 Hard Skills
-ReactJs, NextJs - (Hooks, Context API)
-JavaScript - (TypeScript)
-CSS in JS
-REST API
-MySql
-
-
+- [React- Hooks, Context](https://reactjs.org)
+- [NextJs](https://nextjs.org/)
+- [Cypress](https://www.cypress.io/)
+- [Jest](https://jestjs.io/pt-BR/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Styled-Components](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Node](https://nodejs.org/en/)
+- [API Integration]
+- [Rest API]
+- [SEO]
+- [Docker]
 #### "The lips of wisdom are closed, except for the ears of understanding." – The Caibalion🌞
