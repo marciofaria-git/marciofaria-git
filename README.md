@@ -11,7 +11,7 @@
   </br>
 
 - I am currently working on my personal projects.
- </br>
+  </br>
   <img src="https://s3.gifyu.com/images/dark-souls.gif" width="100" height="100" />
 
 ### Front End
@@ -27,12 +27,9 @@
 ### Back End
 
 - [Node](https://nodejs.org/en/)
-- [NestJS](https://nestjs.com/)
-- [Postgress](https://www.postgresql.org/)
-- [MySql](https://www.mysql.com/)
 - [API Integration]()
 - [Rest API]()
-- [Docker](https://www.docker.com/)
+- [Docker]()
 
 ### Tests
 
