@@ -52,4 +52,7 @@
   </br>
 
 #### "The lips of wisdom are closed, except for the ears of understanding." – The Caibalion🌞
-![](https://s3.gifyu.com/images/dark-souls.gif)
+<h1 align="center">
+    <img alt="sun" src="https://s3.gifyu.com/images/dark-souls.gif" />
+</h1>
+
