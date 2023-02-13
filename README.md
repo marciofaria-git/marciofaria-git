@@ -27,6 +27,9 @@
 ### Back End
 
 - [Node](https://nodejs.org/en/)
+- [NestJS](https://nestjs.com/)
+- [MySql](https://www.mysql.com/)
+- [Postgres](https://www.postgresql.org/)
 - [API Integration]()
 - [Rest API]()
 - [Docker]()
