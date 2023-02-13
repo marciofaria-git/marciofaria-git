@@ -53,5 +53,5 @@
 
 #### "The lips of wisdom are closed, except for the ears of understanding." – The Caibalion🌞
 
-<img alt="Finances" src="https://s3.gifyu.com/images/dark-souls.gif"/>
+<img alt="Finances" src="https://media4.giphy.com/media/LEk8EWCr9jvYxItAjw/giphy.gif"/>
 
