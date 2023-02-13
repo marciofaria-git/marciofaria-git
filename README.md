@@ -50,10 +50,10 @@
 - [Google Developers](https://developers.google.com/)
 - [i18next](https://www.i18next.com/)
   </br>
-
+https://s3.gifyu.com/images/dark-souls.gif
 #### "The lips of wisdom are closed, except for the ears of understanding." – The Caibalion🌞
 <h1 align="center">
-    <img alt="sun" src="https://s3.gifyu.com/images/dark-souls.gif" />
+    <img alt="sun" src="[https://s3.gifyu.com/images/dark-souls.gif](https://s10.gifyu.com/images/ezgif.com-gif-maker3094f57188dfec0e.gif)" />
 </h1>
 <img alt="Finances" src="https://s10.gifyu.com/images/ezgif.com-gif-maker3094f57188dfec0e.gif"/>
 
