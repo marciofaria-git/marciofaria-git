@@ -11,8 +11,6 @@
   </br>
 
 - I am currently working on my personal projects.
-  </br>
-  <img src="https://s3.gifyu.com/images/dark-souls.gif" width="100" height="100" />
 
 ### Front End
 
@@ -54,3 +52,4 @@
   </br>
 
 #### "The lips of wisdom are closed, except for the ears of understanding." – The Caibalion🌞
+![](https://s3.gifyu.com/images/dark-souls.gif)
