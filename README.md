@@ -55,4 +55,5 @@
 <h1 align="center">
     <img alt="sun" src="https://s3.gifyu.com/images/dark-souls.gif" />
 </h1>
+<img alt="Finances" src="https://s10.gifyu.com/images/ezgif.com-gif-maker3094f57188dfec0e.gif"/>
 
