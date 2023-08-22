@@ -5,8 +5,7 @@
 
 ### About me
 
-#### - I'm a Full Stack developer 👨‍💻 <br>I really enjoy reading and passionate about coding.
+#### - I'm a programmer
 
 #### "The lips of wisdom are closed, except for the ears of understanding." – The Caibalion🌞
-
 
